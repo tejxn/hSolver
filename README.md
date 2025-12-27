@@ -6,3 +6,4 @@ Solves discord hcaptcha using text challange fully automatic and silent.
 - Page:- **https://addons.mozilla.org/en-US/firefox/addon/hsolver-discord-captcha-solver/**
 
 available for chrome and firefox
+- **https://github.com/tejxn/hSolver/releases/latest/**
