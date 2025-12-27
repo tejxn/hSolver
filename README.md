@@ -1,5 +1,6 @@
 # hSolver
 - Update Soon!
+
 Solves discord hcaptcha using text challange fully automatic and silent.
 
 Firefox Extension Page:-
